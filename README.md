@@ -4,6 +4,7 @@ In this repository, all the resources of the article published on Medium or Link
 * [Infinity in Python](https://medium.com/@ashutosh.vaidya1190/infinity-in-python-e5c86f9fbf1f)
 * [Behind the scenes of For Loop](https://medium.com/@ashutosh.vaidya1190/behind-the-scenes-of-for-loop-f9f0bf108599)
 * [Python Functions: A beginner’s Guide - Part 1](https://medium.com/@ashutosh.vaidya1190/python-functions-a-beginners-guide-part-1-a43e6de91023)
+* [Python Functions: A beginner’s Guide - Part 2](https://medium.com/@ashutosh.vaidya1190/python-functions-a-beginners-guide-part-2-d351bb3d2ec1)
 
 ## Exploratory Data Analysis ##
 * [Automated EDA Part 1 : pandas-profiling](https://www.linkedin.com/posts/ashutoshvaidya11_automated-eda-using-pandas-profiling-krish-activity-6980487122956746752-uGpF?utm_source=share&utm_medium=member_desktop)
