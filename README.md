@@ -1,5 +1,8 @@
 In this repository, all the resources of the article published on Medium or LinkedIn will be available 
 
+## Artificial Intelligence ##
+* [Fluffernutters, Legend of Captain Mustache, and Age of Xorgons.](https://medium.com/@ashutosh.vaidya1190/fluffernutters-legend-of-captain-mustache-and-age-of-xorgons-83dd093dd1ad)
+
 ## Python ##
 * [Infinity in Python](https://medium.com/@ashutosh.vaidya1190/infinity-in-python-e5c86f9fbf1f)
 * [Behind the scenes of For Loop](https://medium.com/@ashutosh.vaidya1190/behind-the-scenes-of-for-loop-f9f0bf108599)
