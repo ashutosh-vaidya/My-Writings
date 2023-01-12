@@ -7,7 +7,7 @@ I have recently begun blogging on Dev as well, and I want to keep my technical p
 
 ## Python ##
 * [Infinity in Python](https://medium.com/@ashutosh.vaidya1190/infinity-in-python-e5c86f9fbf1f)
-* Behind the scenes of For Loop [Medium](https://medium.com/@ashutosh.vaidya1190/behind-the-scenes-of-for-loop-f9f0bf108599)|[Dev](https://dev.to/ashutoshvaidya/behind-the-scenes-of-for-loop-3h6h)
+* Behind the scenes of For Loop [Medium](https://medium.com/@ashutosh.vaidya1190/behind-the-scenes-of-for-loop-f9f0bf108599) | [Dev](https://dev.to/ashutoshvaidya/behind-the-scenes-of-for-loop-3h6h)
 * [Python Functions: A beginner’s Guide - Part 1](https://medium.com/@ashutosh.vaidya1190/python-functions-a-beginners-guide-part-1-a43e6de91023)
 * [Python Functions: A beginner’s Guide - Part 2](https://medium.com/@ashutosh.vaidya1190/python-functions-a-beginners-guide-part-2-d351bb3d2ec1)
 
