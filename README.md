@@ -10,6 +10,7 @@ I have recently begun blogging on Dev as well, and I want to keep my technical p
 * Behind the scenes of For Loop [Medium](https://medium.com/@ashutosh.vaidya1190/behind-the-scenes-of-for-loop-f9f0bf108599) | [Dev](https://dev.to/ashutoshvaidya/behind-the-scenes-of-for-loop-3h6h)
 * [Python Functions: A beginner’s Guide - Part 1](https://medium.com/@ashutosh.vaidya1190/python-functions-a-beginners-guide-part-1-a43e6de91023)
 * [Python Functions: A beginner’s Guide - Part 2](https://medium.com/@ashutosh.vaidya1190/python-functions-a-beginners-guide-part-2-d351bb3d2ec1)
+*[Higher Order Functions](https://dev.to/ashutoshvaidya/higher-order-functions-1n8f)
 
 ## Exploratory Data Analysis ##
 * [Automated EDA Part 1 : pandas-profiling](https://www.linkedin.com/posts/ashutoshvaidya11_automated-eda-using-pandas-profiling-krish-activity-6980487122956746752-uGpF?utm_source=share&utm_medium=member_desktop)
